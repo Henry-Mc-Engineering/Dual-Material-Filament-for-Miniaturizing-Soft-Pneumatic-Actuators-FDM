@@ -1,0 +1,24 @@
+{
+  "repository_description": "BEng Mechanical Engineering – Honours Dissertation: Novel Dual-Material Filament Process for Miniaturizing Soft Pneumatic Actuators via Fused Deposition Modelling",
+  "template_purpose": "Project showcase for academic research and dissertation documentation",
+  "suggested_topics": [
+    "soft-robotics",
+    "fdm-3d-printing",
+    "pneumatic-actuators",
+    "dual-material",
+    "dissertation",
+    "mechanical-engineering",
+    "research"
+  ],
+  "include_in_template": [
+    "README.md",
+    "DISSERTATION.md",
+    "LICENSE",
+    ".github/workflows",
+    "docs/",
+    "designs/",
+    "experiments/",
+    "code/",
+    "media/"
+  ]
+}
